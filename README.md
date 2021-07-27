@@ -12,7 +12,7 @@ Note: official Laravel product are **bolded** in the list.
 
 - [Administration panels](#administration-panels)
 - [Backups](#backups)
-- [Debugging](#debugging)
+- [Developer tools](#developer-tools)
 - [E-commerce](#e-commerce)
 - [Email](#email)
 - [Media](#media)
@@ -25,10 +25,11 @@ Note: official Laravel product are **bolded** in the list.
 
 - [Laravel Backup Server](https://spatie.be/products/laravel-backup-server) - Backup multiple sites
 
-### Debugging
+### Developer tools
 
 - [Flare](https://flareapp.io/) - Laravel specific error tracking service.
 - [Ray](https://myray.app/) - Desktop app to show errors.
+- [Tinkerwell](https://tinkerwell.app/) - Run PHP code in your project from a Desktop app.
 
 ### E-commerce
 
