@@ -52,3 +52,4 @@ Note: official Laravel product are **bolded** in the list.
 - [F-Bar](https://laravel-forge-menubar.com/) - Laravel Forge servers in your menubar.
 - **[Laravel Forge](https://forge.laravel.com)** - Server management.
 - **[Laravel Vapor](https://vapor.laravel.com/)** - Serverless deployment platform for Laravel.
+- [Ploi.io](https://ploi.io/) - Server management.
