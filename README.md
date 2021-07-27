@@ -29,6 +29,7 @@ Note: official Laravel product are **bolded** in the list.
 
 - [Flare](https://flareapp.io/) - Laravel specific error tracking service.
 - [Ray](https://myray.app/) - Desktop app to show errors.
+- [Laravel Shift](https://laravelshift.com/) - Instant, automated, Laravel upgrades.
 - [Tinkerwell](https://tinkerwell.app/) - Run PHP code in your project from a Desktop app.
 
 ### E-commerce
