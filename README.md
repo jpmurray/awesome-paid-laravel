@@ -30,6 +30,7 @@ Note: official Laravel product are **bolded** in the list.
 - [Flare](https://flareapp.io/) - Laravel specific error tracking service.
 - [Ray](https://myray.app/) - Desktop app to show errors.
 - [Laravel deployment using Github Actions](https://sjorso.com/laravel-deployment-using-github-actions) - Laravel CI/CD Workflow for Github actions
+- [Laravel Idea](https://laravel-idea.com/) - Laravel Autocompletion and more for PHP Storm.
 - [Laravel Shift](https://laravelshift.com/) - Instant, automated, Laravel upgrades.
 - [Tinkerwell](https://tinkerwell.app/) - Run PHP code in your project from a Desktop app.
 
