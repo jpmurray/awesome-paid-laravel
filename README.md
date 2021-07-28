@@ -14,6 +14,7 @@ Note: official Laravel product are **bolded** in the list.
 - [Backups](#backups)
 - [Developer tools](#developer-tools)
 - [E-commerce](#e-commerce)
+- [Education](#education)
 - [Email](#email)
 - [Media](#media)
 - [Server](#server)
@@ -37,6 +38,10 @@ Note: official Laravel product are **bolded** in the list.
 ### E-commerce
 
 - **[Laravel Spark](https://spark.laravel.com/)** - SaaS billing solution.
+
+### Education
+
+- [Laracast](https://laracasts.com/) - Laravel (and more!) screencasts.
 
 ### Email
 
