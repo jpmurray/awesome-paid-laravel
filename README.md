@@ -2,7 +2,7 @@
 
 The ecosystem around Laravel is (not exclusively of course) known, in my opinion, of two big things: the paid offering from Laravel itself, and the wonderful community of developers and open source packages.
 
-While I'm a lover of FOSS first, I'm something embracing paid offerings too, when I really can't find what I was looking for, or when a FOSS offering doesn't suit my needs well.
+While I'm a lover of FOSS first, I'm sometime embracing paid offerings too, when I really can't find what I was looking for, or when a FOSS offering doesn't suit my needs as much as I'd like.
 
 So here's an attempt to curate _awesome_ products, aimed at the Laravel community at large (or sometime made by someone from the Laravel Community), for when the need of paid software hits!
 
