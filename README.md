@@ -34,6 +34,7 @@ Note: official Laravel product are **bolded** in the list.
 - [Laravel Idea](https://laravel-idea.com/) - Laravel Autocompletion and more for PHP Storm.
 - [Laravel Shift](https://laravelshift.com/) - Instant, automated, Laravel upgrades.
 - [Tinkerwell](https://tinkerwell.app/) - Run PHP code in your project from a Desktop app.
+- [Vursion](https://vursion.io/) - Track Laravel, PHP, NPM and composer dependency versions across your projects.
 
 ### E-commerce
 
