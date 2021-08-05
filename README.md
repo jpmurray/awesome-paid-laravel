@@ -43,6 +43,7 @@ Note: official Laravel product are **bolded** in the list.
 ### Education
 
 - [Laracast](https://laracasts.com/) - Laravel (and more!) screencasts.
+- [Serverless Laravel](https://serverlesslaravelcourse.com) - Laravel Vapor masterclass
 
 ### Email
 
