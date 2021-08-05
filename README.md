@@ -46,6 +46,7 @@ Note: official Laravel product are **bolded** in the list.
 
 ### Email
 
+- [MailCare](https://mailcare.io/) - Self hosted disposable email address services.
 - [Mailcoach](https://mailcoach.app/) - Self hosted email marketing platform.
 
 ### Media
